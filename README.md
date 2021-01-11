@@ -1,1 +1,2 @@
 # wirds-2021-binder-przyk-ad
+runtime.txt--określamy z jakiej wersji R będziemy korzytsać oraz z jakiego dnia mają być pakiety (np r-2021-01-01,r-2021-01-02)
